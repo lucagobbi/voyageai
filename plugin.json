@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Voyage AI Embeddings",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "This plugin enables the Voyage AI embedder factory to be used in your cat.",
+    "author_name": "Luca Gobbi",
+    "author_url": "https://github.com/lucagobbi",
+    "plugin_url": "https://github.com/lucagobbi/voyageai",
+    "tags": "cat, voyageai, embedders, embeddings, vectors",
+    "thumb": "https://raw.githubusercontent.com/lucagobbi/voyageai/main/assets/voyageai_logo.png"
 }
